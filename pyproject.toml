@@ -17,7 +17,7 @@ package=true
 
 [dependency-groups]
 dev = [
-    "ruff>=0.12.8",
+    "ruff>=0.15.21",
     "pytest>=9.1.1",
     "py-spy>=0.4.1",
     "pyright>=1.1.407",
